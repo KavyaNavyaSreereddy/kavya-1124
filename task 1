@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landing Page Title</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Landing Page Heading</h1>
+        <p>Your compelling message or value proposition</p>
+    </header>
+    <section class="features">
+        <div class="feature">
+            <h2>Feature 1</h2>
+            <p>Description of feature 1</p>
+        </div>
+        <div class="feature">
+            <h2>Feature 2</h2>
+            <p>Description of feature 2</p>
+        </div>
+        <!-- Add more features as needed -->
+    </section>
+    <section class="cta">
+        <h2>Call to Action</h2>
+        <p>Encourage visitors to take action</p>
+        <button>Contact Us</button> <!-- Replace with your CTA button -->
+    </section>
+    <footer>
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script> <!-- Add JavaScript file if needed -->
+</body>
+</html>
